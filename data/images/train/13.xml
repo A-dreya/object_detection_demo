@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>leafminer</folder>
 	<filename>13.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\13.jpg</path>
+	<path>C:\Users\Default.DESKTOP-LJNHA9S\Desktop\eggplant-data\leafminer\13.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,99 +12,159 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>leafminer</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>248</xmin>
-			<ymin>30</ymin>
-			<xmax>431</xmax>
-			<ymax>170</ymax>
+			<xmin>1</xmin>
+			<ymin>311</ymin>
+			<xmax>42</xmax>
+			<ymax>379</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>leafminer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>398</xmin>
-			<ymin>175</ymin>
-			<xmax>587</xmax>
-			<ymax>298</ymax>
+			<xmin>146</xmin>
+			<ymin>66</ymin>
+			<xmax>252</xmax>
+			<ymax>113</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>leafminer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>40</xmin>
-			<ymin>128</ymin>
-			<xmax>238</xmax>
-			<ymax>246</ymax>
+			<xmin>85</xmin>
+			<ymin>96</ymin>
+			<xmax>115</xmax>
+			<ymax>121</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>leafminer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>538</xmin>
-			<ymin>441</ymin>
-			<xmax>653</xmax>
-			<ymax>532</ymax>
+			<xmin>138</xmin>
+			<ymin>115</ymin>
+			<xmax>202</xmax>
+			<ymax>181</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>leafminer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>532</xmin>
-			<ymin>103</ymin>
-			<xmax>623</xmax>
-			<ymax>174</ymax>
+			<xmin>276</xmin>
+			<ymin>32</ymin>
+			<xmax>344</xmax>
+			<ymax>120</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>leafminer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>471</xmin>
-			<ymin>315</ymin>
-			<xmax>549</xmax>
-			<ymax>372</ymax>
+			<xmin>554</xmin>
+			<ymin>71</ymin>
+			<xmax>678</xmax>
+			<ymax>146</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>leafminer</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>583</xmin>
-			<ymin>365</ymin>
-			<xmax>675</xmax>
-			<ymax>438</ymax>
+			<xmin>755</xmin>
+			<ymin>95</ymin>
+			<xmax>800</xmax>
+			<ymax>137</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>leafminer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>163</xmin>
-			<ymin>258</ymin>
-			<xmax>269</xmax>
-			<ymax>330</ymax>
+			<xmin>468</xmin>
+			<ymin>180</ymin>
+			<xmax>666</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leafminer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>161</ymin>
+			<xmax>417</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leafminer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>243</ymin>
+			<xmax>365</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leafminer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>356</ymin>
+			<xmax>241</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leafminer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>324</ymin>
+			<xmax>478</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leafminer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>430</ymin>
+			<xmax>659</xmax>
+			<ymax>556</ymax>
 		</bndbox>
 	</object>
 </annotation>
